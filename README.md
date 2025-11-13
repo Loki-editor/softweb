@@ -267,10 +267,14 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
+# Admin Page
 ![alt text](admin.png)
-![alt text](home.png)
+# Home Page
+<img width="1920" height="1080" alt="home 2" src="https://github.com/user-attachments/assets/9f559de4-707a-4a0f-9c89-7eddfaf0d047" />
+
+# Menu Page
 ![alt text](menu.png) 
+# Contact Page
 ![alt text](contact.png) 
 
 
